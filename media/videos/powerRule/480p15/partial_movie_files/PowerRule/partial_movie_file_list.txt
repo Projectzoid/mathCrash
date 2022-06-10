@@ -5,3 +5,4 @@ file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480
 file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/PowerRule/2201830969_2722413484_268897266.mp4'
 file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/PowerRule/2201830969_2861555299_223132457.mp4'
 file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/PowerRule/2201830969_2569718023_1102604984.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/PowerRule/2201830969_3035157296_1619022934.mp4'

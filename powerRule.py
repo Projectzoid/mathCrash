@@ -33,6 +33,28 @@ class PowerRule(Scene):
         self.play(Write(t1))
         self.wait(3)
 
+        axes = Axes(
+            x_range=[-5, 5, 1],
+            y_range=[-5, 5, 1],
+            axis_config={"color": BLUE},
+        )
+
+        # Create Graph
+        graph = axes.plot(lambda x: x**2, color=WHITE)
+        graph_label = axes.get_graph_label(graph, label='x^{2}')
+
+        graph2 = axes.plot(lambda x: 2*x, color=WHITE)
+        graph_label2 = axes.get_graph_label(graph2, label='2x')
+
+        self.play(Create(axes))
+
+        # Display graph
+        plot1 = VGroup(axes, graph, graph_label)
+        plot2 = VGroup(graph2, graph_label2)
+        #self.play(plot1)
+        #self.wait(3)
+        #self.play(plot2)
+
         
       
   
