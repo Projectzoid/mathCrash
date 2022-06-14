@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/Title/598979775_787211222_631829896.mp4'
-file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/Title/598979775_2702485181_4174018169.mp4'
-file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/Title/677644185_461430123_3486785633.mp4'
-file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/Title/677644185_3375341780_268897266.mp4'

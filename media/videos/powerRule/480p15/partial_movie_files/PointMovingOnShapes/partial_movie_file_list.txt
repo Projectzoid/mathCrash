@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/powerRule/480p15/partial_movie_files/PointMovingOnShapes/3163782288_3684480070_223132457.mp4'
