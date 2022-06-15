@@ -1,6 +1,6 @@
 from manim import *
 
-class solvingDerivative(Scene):
+class BasicExample1(Scene):
     def construct(self):
         func = MathTex(r"f(x)", r"=", r"x^n")
         derFunc = MathTex(r"f'(x)", r"=", r"n", r"x", r"^{n", r"-1}")

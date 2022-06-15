@@ -24,7 +24,7 @@ class PowerRule(Scene):
         self.wait(3)
         self.play(ReplacementTransform(mathCrash, topic), FadeOut(section))
         self.wait(5)
-        self.clear()
+        self.play()
 
         t1 = MarkupText(
             f'<span fgcolor="{WHITE}">What is a</span> derivative<span fgcolor="{WHITE}">?</span> ', color=RED
