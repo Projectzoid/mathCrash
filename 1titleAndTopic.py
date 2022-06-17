@@ -20,16 +20,16 @@ class PowerRule(Scene):
 
         section.next_to(mathCrash, DOWN)
         
-        self.play(Write(mathCrash), Write(section))
+        self.play(Write(mathCrash), Write(section), run_time = 0.5)
         self.wait(3)
-        self.play(ReplacementTransform(mathCrash, topic), FadeOut(section))
+        self.play(ReplacementTransform(mathCrash, topic), FadeOut(section), run_time = 0.5)
         self.wait(5)
-        self.play()
 
         t1 = MarkupText(
             f'<span fgcolor="{WHITE}">What is a</span> derivative<span fgcolor="{WHITE}">?</span> ', color=RED
         )
 
+        self.play(ReplacementTransform(topic, t1), run_time = 0.5)
         self.play(ApplyWave(
             t1,
             direction=UP,

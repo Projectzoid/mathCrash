@@ -51,7 +51,8 @@ class BasicExample1(Scene):
         self.play(
         ReplacementTransform(derFunc4[0], derFunc5[0]),
         ReplacementTransform(derFunc4[1], derFunc5[1]),
-        ReplacementTransform(derFunc4[2:], derFunc5[2]))
+        ReplacementTransform(derFunc4[2], derFunc5[2]),
+        FadeOut(derFunc4[3]))
         self.play(Indicate(derFunc5[0]), Indicate(derFunc5[2]))
 
         self.wait()

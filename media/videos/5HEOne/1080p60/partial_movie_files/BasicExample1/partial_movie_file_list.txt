@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/450974505_3503346753_631829896.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/450974505_285664656_4174018169.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_641011677_746773115.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_2616599406_1135277449.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_4240354006_1309371501.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_641011677_1499517792.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_3956088002_378307133.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_3375341780_3141531876.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_460240429_247258600.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_3375341780_3222853523.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/5HEOne/1080p60/partial_movie_files/BasicExample1/34786186_641011677_2697666169.mp4'
