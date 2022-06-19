@@ -1,5 +1,3 @@
-from re import S
-from idna import InvalidCodepoint
 from manim import *
 
 
