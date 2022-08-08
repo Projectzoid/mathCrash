@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/4qrGeneralRule/480p15/partial_movie_files/QRGeneralRule/3163782288_568760376_223132457.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/4qrGeneralRule/480p15/partial_movie_files/QRGeneralRule/2201830969_329969645_2558996618.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/4qrGeneralRule/480p15/partial_movie_files/QRGeneralRule/2201830969_329969645_631829896.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/4qrGeneralRule/480p15/partial_movie_files/QRGeneralRule/2201830969_229962596_4174018169.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/4qrGeneralRule/480p15/partial_movie_files/QRGeneralRule/2201830969_329969645_2983852093.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/4qrGeneralRule/480p15/partial_movie_files/QRGeneralRule/2201830969_2477211416_1199474850.mp4'
+file 'file:/Users/anirud/Documents/GitHub/TiktokFiles/media/videos/4qrGeneralRule/480p15/partial_movie_files/QRGeneralRule/2201830969_329969645_2466179971.mp4'
