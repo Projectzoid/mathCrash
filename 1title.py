@@ -15,8 +15,9 @@ class LimitsTitle(Scene):
         )
 
         topic = Text(
-            f'What is a limit? \nHow do you determine if a limit exists \nHow do you graphically solve for a limit', color=WHITE
+            f'What is a limit? \nHow do you determine if a limit exists? \nHow do you graphically solve for a limit?', color=WHITE
         )
+        topic.arrange(center=True)  
 
         section.next_to(mathCrash, DOWN)
         
@@ -25,7 +26,7 @@ class LimitsTitle(Scene):
         self.play(ReplacementTransform(mathCrash, topic), FadeOut(section), run_time = 0.5)
 
         self.play(ApplyWave(
-            topic[0:16],
+            topic[0:13],
             direction=UP,
             time_width=0.5,
             amplitude=0.1
@@ -34,7 +35,7 @@ class LimitsTitle(Scene):
         self.wait()
 
         self.play(ApplyWave(
-            topic[17:55],
+            topic[15:45],
             direction=UP,
             time_width=0.5,
             amplitude=0.1
@@ -43,7 +44,7 @@ class LimitsTitle(Scene):
         self.wait()
 
         self.play(ApplyWave(
-            topic[56:96],
+            topic[45:85],
             direction=UP,
             time_width=0.5,
             amplitude=0.1
