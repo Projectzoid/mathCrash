@@ -32,6 +32,10 @@ class Graph(MovingCameraScene):
         self.play(Write(graph_label))
         self.wait(2)
 
+        dot = Dot()
+        dot.move_to(graph.coords_to_point(2,4))
+
+
         #e1 = MathTex(r"f'(x)", r"=", r"2x")
         #e2 = MathTex(r"f'(2)", r"=", r"2(2)")
         #e3 = MathTex(r"f'(2)", r"=", r"4")
