@@ -17,7 +17,7 @@ class LimitsTitle(Scene):
         topic = Text(
             f'What is a limit? \nHow do you determine if a limit exists? \nHow do you graphically solve for a limit?', color=WHITE
         )
-        topic.arrange(center=True)  
+
 
         section.next_to(mathCrash, DOWN)
         
